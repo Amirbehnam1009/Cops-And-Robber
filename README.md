@@ -1,7 +1,13 @@
 # 👮♂️🚨 Cops and Robber Simulation 🦹♂️💨
 
-<img src="https://github.com/user-attachments/assets/cbcede00-d228-400e-9bf4-d9b31b4c75a7" width="500" height = "500" alt="Lucid_Origin_A_dynamic_cyberpunkstyle_8x8_grid_with_glowing_ne_0" />
-
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/cbcede00-d228-400e-9bf4-d9b31b4c75a7" 
+    alt="Lucid_Origin_A_dynamic_cyberpunkstyle_8x8_grid_with_glowing_ne_0" 
+    width="800" 
+    height="500"
+  >
+</div>
 
 ## 📖 About
 This project is a simulation of a pursuit game between cops and robbers, developed as the midterm project for the Fundamental Programming course under the supervision of Professor Bahador Bakhshi in Fall 2019. The simulation models the dynamic interactions between robbers and police officers in a grid-based environment, incorporating elements of random movement, detection, and coordinated pursuit.
