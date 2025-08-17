@@ -1,6 +1,6 @@
 # 👮♂️🚨 Cops and Robber Simulation 🦹♂️💨
 
-![Lucid_Origin_A_dynamic_cyberpunkstyle_8x8_grid_with_glowing_ne_0](https://github.com/user-attachments/assets/cbcede00-d228-400e-9bf4-d9b31b4c75a7){: width="400" }
+<img src="https://github.com/user-attachments/assets/cbcede00-d228-400e-9bf4-d9b31b4c75a7" width="400" alt="Lucid_Origin_A_dynamic_cyberpunkstyle_8x8_grid_with_glowing_ne_0" />
 
 
 ## 📖 About
